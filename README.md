@@ -11,6 +11,7 @@ Run the Spring Boot Application in Locally.
 If we have windows Home Edition but want to use docker..........how ?
 
 # Create Virtualbox in Windows Machine and download docker-machine then use docker.
+# Make sure Virtualbox software installed already in your windows machine.
 
  Docker Machine will work without Docker, but you won’t be able to use every feature of Docker Machine.
  
